@@ -1,0 +1,5 @@
+Internal working of Arraylist :- http://www.codenuclear.com/how-arraylist-works-internally-java/
+
+Internal working of Linkedlist:- https://netjs.blogspot.com/2015/08/how-linked-list-class-works-internally-java.html
+
+https://netjs.blogspot.com/2015/05/how-hashmap-internally-works-in-java.html
